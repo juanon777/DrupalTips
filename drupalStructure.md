@@ -9,7 +9,7 @@ Official documentation of drupal [Structure] (https://www.drupal.org/docs/8/unde
 
 #### Typical structure
 
-![#c5f015](https://placehold.it/15/c5f015/000000?text=+)  Sample module for documentation
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)  Sample module for understand some commands in the documentation
 
 * **base directory**
 	* **/core**
