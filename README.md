@@ -41,6 +41,22 @@ drush sql-cli < my-sql-dump-file-name.sql
 
 Will ask you confirmation to the **sql-drop** command. 
 
+#### Launch a sql query
+
+Launch a simple query
+
+```
+drush sqlq "show tables;"
+```
+
+#### Launch a sql query from a file
+
+You can put in the file: simple queries, procedures...
+
+```
+drush sqlq --file=db_update_queries.sql
+```
+
 ### USERS COMMANDS
 
 #### Create a drupal user
