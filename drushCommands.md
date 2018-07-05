@@ -56,6 +56,8 @@ drush sqlq --file=db_update_queries.sql
 
 ### USERS COMMANDS
 
+There are many actions you can take to create and modify drupal users from the drush console. I show some examples.
+
 #### Create a drupal user
 
 Create a new user and set Administrator role.
