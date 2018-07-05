@@ -15,22 +15,22 @@ Official documentation of drupal [Structure] (https://www.drupal.org/docs/8/unde
 	* /libraries
     	  ...
 	* /modules
-	  - /test1Module
+	  - /Module1
 	    - /config
 	      - /install
-	        - resource.test1Module.yml
+	        - resource.Module1.yml
 	        - ...			
 	    - /src
 	    - /templates
-	      test1Module.html.twig
-	    - /tests
-	      - /src
-	        - /unit
-		- ...
-	      - ...             
+	      - Module1.html.twig
+	  - /tests
+	    - /src
+	      - /Unit
+	        - Module1Test.php
+	        - ...           
 	    - composer.json
-	    - test1Module.info.yml
-	    - test1Module.module		
+	    - Module1.info.yml
+	    - Module1.module		
 	    - ...
 	* /profile
 	  - ...
