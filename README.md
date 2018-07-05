@@ -61,6 +61,6 @@ Change a user's password
 drush user-password admin --password=adminpass
 ```
 
-The **admin** user changes his password by **adminpass**
+The **admin** user changes his password by **adminpass** .
 
 
