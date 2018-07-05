@@ -21,7 +21,7 @@ Official documentation of drupal [Structure] (https://www.drupal.org/docs/8/unde
 	    - /config ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 
 	      - /install ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 
 	        - resource.Module1.yml ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 
-	        - ... ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 	 		
+	        - ...		
 	    - /src ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 
 	    - /templates ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 
 	      - Module1.html.twig ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 
@@ -29,11 +29,11 @@ Official documentation of drupal [Structure] (https://www.drupal.org/docs/8/unde
 	      - /src ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 
 	        - /Unit ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 
 	          - Module1Test.php ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 
-	          - ... ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)            
+	          - ...           
 	    - composer.json ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 
 	    - Module1.info.yml ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 
 	    - Module1.module ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 		
-	    - ... ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 
+	    - ... 
 	* **/profile**
 	    - ...
 	* **/themes**	
