@@ -1,7 +1,7 @@
 # DrupalTips
 Tips for DRUPAL 8 (drush commands, modules...)
 
-## BASICS DRUSH COMMANDS
+## DRUSH COMMANDS
 
 ### DATABASE COMMANDS
 
