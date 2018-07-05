@@ -1,3 +1,4 @@
+[<< BACK](README.md)
 
 ### DATABASE COMMANDS
 
@@ -75,3 +76,5 @@ drush user-password admin --password=adminpass
 ```
 
 The **admin** user changes his password by **adminpass** .
+
+[<< BACK](README.md)
