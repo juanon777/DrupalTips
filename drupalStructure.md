@@ -23,11 +23,11 @@ Official documentation of drupal [Structure] (https://www.drupal.org/docs/8/unde
 	    - /src
 	    - /templates
 	      - Module1.html.twig
-	  - /tests
-	    - /src
-	      - /Unit
-	        - Module1Test.php
-	        - ...           
+	    - /tests
+	      - /src
+	        - /Unit
+	          - Module1Test.php
+	          - ...           
 	    - composer.json
 	    - Module1.info.yml
 	    - Module1.module		
