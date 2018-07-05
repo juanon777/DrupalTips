@@ -9,41 +9,43 @@ Official documentation of drupal [Structure] (https://www.drupal.org/docs/8/unde
 
 #### Typical structure
 
-* base directory
-	* /core
-	  ...
-	* /libraries
-    	  ...
-	* /modules
-	  - /Module1
-	    - /config
-	      - /install
-	        - resource.Module1.yml
-	        - ...			
-	    - /src
-	    - /templates
-	      - Module1.html.twig
-	    - /tests
-	      - /src
-	        - /Unit
-	          - Module1Test.php
-	          - ...           
-	    - composer.json
-	    - Module1.info.yml
-	    - Module1.module		
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)  Sample module for documentation
+
+* **base directory**
+	* **/core**
 	    - ...
-	* /profile
-	  - ...
-	* /themes	
-	  - ...
-	* /sites
-	  - ...
-	* /vendor	
-	  - ...
-	* index.php
-	* composer.json
-	* .htaccess
-	* web.config
+	* **/libraries**
+	    - ...
+	* **/modules**
+	  - /Module1 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 
+	    - /config ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 
+	      - /install ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 
+	        - resource.Module1.yml ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 
+	        - ... ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 	 		
+	    - /src ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 
+	    - /templates ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 
+	      - Module1.html.twig ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 
+	    - /tests ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 
+	      - /src ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 
+	        - /Unit ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 
+	          - Module1Test.php ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 
+	          - ... ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)            
+	    - composer.json ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 
+	    - Module1.info.yml ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 
+	    - Module1.module ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 		
+	    - ... ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 
+	* **/profile**
+	    - ...
+	* **/themes**	
+	    - ...
+	* **/sites**
+	    - ...
+	* **/vendor**	
+	    - ...
+	* **index.php**
+	* **composer.json**
+	* **.htaccess**
+	* **web.config**
 	* ...
 
 
