@@ -10,16 +10,16 @@ Official documentation of drupal [Structure] (https://www.drupal.org/docs/8/unde
 #### Typical structure
 
 * base directory
-	- /core
+	* /core
 	  ...
-	- /libraries
+	* /libraries
     	  ...
-	- /modules
+	* /modules
 	  - /test1Module
 	    - /config
 	      - /install
 	        - resource.test1Module.yml
-	        - xxx			
+	        - ...			
 	    - /src
 	    - /templates
 	      test1Module.html.twig
@@ -27,24 +27,24 @@ Official documentation of drupal [Structure] (https://www.drupal.org/docs/8/unde
 	      - /src
 	        - /unit
 		- ...
-	      - ...
-             
-	     composer.json
-	     test1Module.info.yml
-	     test1Module.module		
-	     ...
-	- /profile
-	  ...
-	- /themes
-          ...
-	- /sites
-	  ...
-	- /vendor	
-	- index.php
-	- composer.json
-	- .htaccess
-	- web.config
-	- ...
+	      - ...             
+	    - composer.json
+	    - test1Module.info.yml
+	    - test1Module.module		
+	    - ...
+	* /profile
+	  - ...
+	* /themes
+          - ...
+	* /sites
+	  - ...
+	* /vendor	
+	  - ...
+	* index.php
+	* composer.json
+	* .htaccess
+	* web.config
+	* ...
 
 
 
