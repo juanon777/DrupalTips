@@ -45,10 +45,11 @@ Will ask you confirmation to the **sql-drop** command.
 
 #### Create a drupal user
 
-Create a new user (administrator role):
+Create a new user and set Administrator role.
 
 ```
-drush user-create adminuser --mail="adminuser@uiowa.edu" --password=adminuser drush user-add-role "administrator" adminuser
+drush user-create adminuser --mail="adminuser@email.com" --password="adminuser"
+drush user-add-role "administrator" adminuser
 ```
 
 User **adminuser** with password **adminuser** and role **administrator** will be created.
